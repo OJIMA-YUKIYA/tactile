@@ -1,0 +1,3 @@
+/home/ojima/tactile/build/CMakeFiles/rebuild_cache.dir
+/home/ojima/tactile/build/CMakeFiles/main.dir
+/home/ojima/tactile/build/CMakeFiles/edit_cache.dir

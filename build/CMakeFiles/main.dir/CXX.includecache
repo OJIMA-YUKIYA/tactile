@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ojima/tactile/main.cpp
+fstream
+-
+ctime
+-
+iostream
+-
+sstream
+-
+cmath
+-
+chrono
+-
+thread
+-
+mutex
+-
+string
+-
+cstring
+-
+sys/fcntl.h
+-
+iomanip
+-
+arpa/inet.h
+-
+unistd.h
+-
+termios.h
+-
+serialPathConfig.h
+/home/ojima/tactile/serialPathConfig.h
+
+serialPathConfig.h
+
